@@ -51,10 +51,17 @@ def entrenar_modelo():
     return modelo, X_test
 
 # Cargar modelo desde archivo
+import os
+import joblib
+
 def cargar_modelo():
-    with open("modelo.pkl", "rb") as f:
-        modelo = pickle.load(f)
-    return modelo
+    if os.path.exists("modelo.pkl"):
+        with open("modelo.pkl", "rb") as f:
+            modelo = joblib.load(f)
+        return modelo
+    else:
+        print("Archivo modelo.pkl no encontrado")
+        return None
 
 # Explicar predicción con SHAP
 def explicar_prediccion(modelo, X_test):
