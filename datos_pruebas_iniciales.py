@@ -7,14 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/15WeH4LP6zM1zCEqeWUcyCuBGDpp1ogEP
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('/content/drive/MyDrive/06_Salud/Xaris_Perez/datos/data.csv')
+df = pd.read_csv('data.csv')
 df.head()
 
 print("Dimensiones del dataset:", df.shape)
