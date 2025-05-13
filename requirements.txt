@@ -1,7 +1,7 @@
-pandas
 numpy==1.23.5
+pandas
 matplotlib==3.5.1
-shap==0.41.0
 scikit-learn
+shap==0.41.0
 streamlit
 ipywidgets
