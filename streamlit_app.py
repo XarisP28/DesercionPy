@@ -35,23 +35,29 @@ modelo = cargar_modelo()
 if modelo:
     df = cargar_datos()
     if df is not None:
-        # Aquí selecciona las features igual que en tu notebook
+        # Ver qué columnas tiene el dataset
+        st.write("Columnas disponibles en el dataset:", df.columns.tolist())
+
+        # Aquí selecciona las features que existan en tu CSV
         features_a_usar = [
             'Facultad', 'Carrera', 'Sexo', 'Pais', 'Estado', 'Tipo',
             'Desc. Becas', 'Donativos', 'Deuda Actual', 'TPT',
             'Edad_Rango', 'N_Mat_Rango', 'N_AC_Rango', 'N_NA_Rango',
             'N_Cr_Rango', 'N_Cr_NA_Rango', 'N° CP', 'N° BA'
         ]
-        X = df[features_a_usar]
-        
-        # Ahora sí, usamos la función explicativa
-        explainer, shap_values = explicar_prediccion(modelo, X)
 
-        st.write("Explainer creado con éxito.")
-        st.write(explainer)
+        # Validar qué columnas faltan para evitar el KeyError
+        columnas_faltantes = [col for col in features_a_usar if col not in df.columns]
+        if columnas_faltantes:
+            st.error(f"Estas columnas no existen en el dataset: {columnas_faltantes}")
+        else:
+            X = df[features_a_usar]
+            explainer, shap_values = explicar_prediccion(modelo, X)
 
-        # Mostrar un resumen de SHAP
-        st.write("Valores SHAP calculados.")
+            st.write("Explainer creado con éxito.")
+            st.write(explainer)
+
+            st.write("Valores SHAP calculados.")
 
     else:
         st.write("No se pudo cargar los datos.")
