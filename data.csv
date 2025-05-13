@@ -1,0 +1,212 @@
+Facultad,Carrera,Res.,Sexo,Rel.,F.Nac.,Pais,Estado,Tipo,N° Mat,N° AC,N° NA,N° CP,N° BA,N° Cr,N° Cr.NA,Desc. Becas,Donativos,Deuda Actual,TPT,target
+FACSA,Médico Cirujano,Int.,M,ASD,24,Brasil,Rio Grande do norte,NORMAL,15,1,10,0,4,80,58,,,,5.Invalidado,1
+ESART,Licenciatura en Comunicación y Medios,Int.,F,ASD,24,Estados Unidos,Colorado,NORMAL,8,8,0,0,0,40,0,,,,5.Invalidado,1
+FACEJ,Licenciatura en Negocios Internacionales,Ext.,F,Cristiano,25,México,NUEVO LEÓN,NORMAL,7,5,2,0,0,34,10,,,,5.Invalidado,1
+FACEJ,Licenciatura en Negocios Internacionales,Int.,F,ASD,25,México,CAMPECHE,NORMAL,7,7,0,0,0,34,0,,,high,5.Invalidado,1
+FACSA,Médico Cirujano,Int.,F,ASD,24,México,SONORA,NORMAL,7,5,2,0,0,40,14,,,,5.Invalidado,1
+ESART,Licenciatura en Arquitectura,Int.,M,ASD,24,México,OAXACA,NORMAL,8,0,3,0,5,40,18,,,,5.Invalidado,1
+FACSA,Médico Cirujano,Int.,F,Pentecostes,22,Belice,Santa Elena,NORMAL,7,5,2,0,0,40,16,,,,5.Invalidado,1
+ESART,Licenciatura en Diseño de Comunicación Visual,Int.,F,ASD,24,México,CHIAPAS,NORMAL,5,4,1,0,0,28,6,,,,5.Invalidado,1
+ESART,Licenciatura en Comunicación y Medios,Ext.,M,ASD,25,México,TABASCO,NORMAL,8,3,0,0,5,40,0,,,,5.Invalidado,1
+FAPSI,Licenciatura en Psicología Clínica,Ext.,F,ASD,24,México,CHIAPAS,NORMAL,7,7,0,0,0,38,0,,,,5.Invalidado,1
+FACEJ,Licenciatura en Derecho,Int.,M,ASD,26,México,PUEBLA,NORMAL,7,7,0,0,0,32,0,,,,5.Invalidado,1
+ESART,Licenciatura en Comunicación y Medios,Int.,F,ASD,25,Perú,Lima,NORMAL,7,7,0,0,0,43,0,,,,5.Invalidado,1
+ESMUS,Propedéutico Música,Int.,M,ASD,24,México,CAMPECHE,NORMAL,4,3,1,0,0,4,1,,,medium,5.Invalidado,1
+FAPSI,Licenciatura en Psicología Clínica,Ext.,F,Pentecostes,25,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,1,6,0,0,38,34,,,low,5.Invalidado,1
+FACSA,Médico Cirujano,Int.,M,ASD,24,México,QUINTANA ROO,NORMAL,7,2,5,0,0,40,32,,,high,5.Invalidado,1
+FACSA,Licenciatura en Nutrición y Estilo de Vida,Int.,F,ASD,24,México,TAMAULIPAS,NORMAL,8,8,0,0,0,40,0,,,,5.Invalidado,1
+FACSA,Licenciatura en Enfermería,Int.,M,ASD,25,México,GUERRERO,NORMAL,8,4,2,0,2,40,12,,,,5.Invalidado,1
+FACEJ,Licenciatura en Contaduría Pública,Ext.,M,ASD,33,México,CAMPECHE,NORMAL,7,1,6,0,0,42,36,,,medium,5.Invalidado,1
+FATEO,Licenciatura en Teología,Ext.,M,ASD,24,México,OAXACA,BECADO,8,7,1,0,0,38,4,low,,medium,5.Invalidado,1
+FACEJ,Licenciatura en Negocios Internacionales,Int.,M,ASD,28,Perú,Cusco,NORMAL,8,8,0,0,0,38,0,,,high,5.Invalidado,1
+FACEJ,Licenciatura en Contaduría Pública,Ext.,M,ASD,30,México,NUEVO LEÓN,NORMAL,7,7,0,0,0,42,0,,,medium,5.Invalidado,1
+ESART,Licenciatura en Arquitectura,Ext.,M,ASD,26,México,YUCATÁN,NORMAL,2,1,1,0,0,10,6,,,,5.Invalidado,1
+FACEJ,Licenciatura en Contaduría Pública,Ext.,M,ASD,51,Colombia,Antioquia,NORMAL,7,2,5,0,0,42,30,,,medium,5.Invalidado,1
+FACSA,Licenciatura en Terapia Física y Rehabilitación,Int.,M,ASD,32,México,PUEBLA,NORMAL,8,1,7,0,0,36,32,,,medium,5.Invalidado,1
+FACSA,Licenciatura en Nutrición y Estilo de Vida,Int.,M,ASD,24,México,TAMAULIPAS,NORMAL,8,8,0,0,0,40,0,,,low,2.Limitado,1
+FACED,Licenciatura en Enseñanza del Lenguaje y la Comunicación,Int.,F,ASD,23,México,NUEVO LEÓN,NORMAL,7,3,4,0,0,38,24,,,low,5.Invalidado,1
+FAPSI,Licenciatura en Psicología Clínica,Ext.,F,Católico,34,México,SONORA,NORMAL,7,7,0,0,0,38,0,,,,5.Invalidado,1
+FAPSI,Licenciatura en Psicología Clínica,Int.,M,ASD,25,México,OAXACA,HIJO DE OBRERO,7,7,0,0,0,38,0,,,medium,1.Favorable,1
+FAPSI,Licenciatura en Psicología Educativa,Ext.,F,ASD,28,México,CHIAPAS,NORMAL,7,7,0,0,0,36,0,,low,medium,1.Favorable,1
+FITEC,Ingeniería en Sistemas Computacionales,Ext.,M,ASD,23,Estados Unidos,Texas,NORMAL,7,0,6,0,1,36,30,,,,5.Invalidado,1
+FACSA,Médico Cirujano,Int.,F,ASD,23,Colombia,Meta,NORMAL,7,7,0,0,0,40,0,,,medium,1.Favorable,1
+FACSA,Médico Cirujano,Int.,F,ASD,23,México,TABASCO,HIJO DE OBRERO,7,7,0,0,0,40,0,,medium,,2.Limitado,1
+FACEJ,Licenciatura en Negocios Internacionales,Ext.,M,Otro,23,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,7,0,0,0,34,0,,,,1.Favorable,1
+FACEJ,Licenciatura en Contaduría Pública,Ext.,M,ASD,36,México,MÉXICO,NORMAL,7,5,2,0,0,42,12,,,medium,5.Invalidado,1
+FACED,Licenciatura en Enseñanza de las Ciencias Naturales,Int.,M,ASD,24,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,2,5,0,0,38,28,,,,1.Favorable,1
+FACED,Licenciatura en Enseñanza de las Ciencias Naturales,Int.,F,ASD,23,México,QUERÉTARO,NORMAL,7,7,0,0,0,38,0,,,high,2.Limitado,1
+FACED,Licenciatura en Enseñanza de las Matemáticas,Int.,M,ASD,23,México,MÉXICO,NORMAL,7,3,4,0,0,38,22,,,high,1.Favorable,1
+FACED,Licenciatura en Enseñanza de las Matemáticas,Int.,F,ASD,23,México,TABASCO,NORMAL,7,7,0,0,0,38,0,,,high,5.Invalidado,1
+FACED,Licenciatura en Educación Preescolar,Int.,F,ASD,24,México,PUEBLA,NORMAL,10,10,0,0,0,40,0,,low,high,5.Invalidado,1
+FACED,Licenciatura en Educación Preescolar,Int.,F,ASD,25,México,COAHUILA DE ZARAGOZA,NORMAL,10,9,1,0,0,40,4,,,high,5.Invalidado,1
+FACSA,Médico Cirujano,Int.,F,ASD,23,Estados Unidos,Arizona,HIJO DE OBRERO,7,4,3,0,0,40,22,,medium,medium,2.Limitado,1
+FACEJ,Licenciatura en Negocios Internacionales,Int.,M,ASD,23,Estados Unidos,Arizona,NORMAL,7,5,2,0,0,34,8,,,,5.Invalidado,1
+FATEO,Licenciatura en Teología,Int.,M,ASD,28,México,OAXACA,NORMAL,8,8,0,0,0,38,0,,,high,5.Invalidado,1
+FACED,Licenciatura en Enseñanza del Lenguaje y la Comunicación,Int.,F,ASD,25,México,MORELOS,NORMAL,7,3,4,0,0,38,22,,,high,1.Favorable,1
+FACED,Licenciatura en Enseñanza del Lenguaje y la Comunicación,Ext.,F,ASD,33,México,CHIAPAS,NORMAL,7,6,0,1,0,38,0,,,high,2.Limitado,1
+FACED,Licenciatura en Enseñanza de las Matemáticas,Int.,M,ASD,29,México,MÉXICO,NORMAL,7,6,1,0,0,38,6,,,high,1.Favorable,1
+ESEST,Cirujano Dentista,Ext.,M,ASD,22,México,TAMAULIPAS,NORMAL,8,1,7,0,0,40,36,,,,1.Favorable,1
+FITEC,Ingeniería en Sistemas Computacionales,Ext.,M,Pentecostes,21,México,BAJA CALIFORNIA,NORMAL,7,6,1,0,0,36,4,,,,1.Favorable,1
+FACED,Licenciatura en Enseñanza del Lenguaje y la Comunicación,Ext.,F,ASD,22,México,YUCATÁN,NORMAL,7,6,1,0,0,38,6,,,,3.Moderado,1
+FACSA,Médico Cirujano,Ext.,F,ASD,21,Belice,Belice,NORMAL,6,4,2,0,0,34,14,,,,3.Moderado,1
+FACSA,Médico Cirujano,Ext.,M,ASD,22,México,SAN LUIS POTOSÍ,NORMAL,6,4,2,0,0,34,14,,,low,1.Favorable,1
+FITEC,Ingeniería en Electrónica y Telecomunicaciones,Ext.,M,ASD,23,Colombia,Cundinamarca,NORMAL,7,1,6,0,0,36,32,,,medium,5.Invalidado,1
+FACED,Licenciatura en Enseñanza de las Matemáticas,Ext.,F,ASD,30,México,JALISCO,NORMAL,7,6,1,0,0,38,6,,,,1.Favorable,1
+FAPSI,Licenciatura en Psicología Clínica,Ext.,M,ASD,26,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,0,7,0,0,38,38,,,,2.Limitado,1
+FACSA,Médico Cirujano,Ext.,F,Católico,21,México,NUEVO LEÓN,NORMAL,6,1,5,0,0,34,30,,,medium,1.Favorable,1
+FACEJ,Licenciatura en Contaduría Pública,Ext.,F,ASD,24,México,NUEVO LEÓN,BECADO,7,1,6,0,0,42,36,low,,medium,1.Favorable,1
+FACSA,Médico Cirujano,Ext.,M,ASD,22,México,CHIAPAS,NORMAL,6,3,3,0,0,34,22,,,,1.Favorable,1
+ESEST,Técnico Superior Universitario en Tecnología Dental,Int.,F,ASD,35,Angola,Luanda,NORMAL,5,5,0,0,0,24,0,,,high,3.Moderado,1
+ESART,Licenciatura en Artes Visuales,Ext.,F,ASD,43,México,TABASCO,NORMAL,8,8,0,0,0,40,0,,,high,5.Invalidado,1
+ESEST,Cirujano Dentista,Ext.,M,Otro,22,Estados Unidos,California,NORMAL,8,2,3,0,3,40,18,,,medium,1.Favorable,1
+FACSA,Licenciatura en Enfermería,Ext.,F,ASD,26,México,TABASCO,NORMAL,8,0,8,0,0,40,40,,,high,5.Invalidado,1
+FITEC,Ingeniería en Electrónica y Telecomunicaciones,Int.,M,ASD,22,Estados Unidos,Texas,NORMAL,3,2,1,0,0,12,4,,,low,2.Limitado,1
+FACEJ,Licenciatura en Negocios Internacionales,Int.,F,ASD,22,México,MÉXICO,NORMAL,8,8,0,0,0,40,0,,,high,1.Favorable,1
+FACSA,Médico Cirujano,Int.,F,ASD,22,México,SONORA,NORMAL,7,4,0,0,3,40,0,,,low,1.Favorable,1
+FACSA,Licenciatura en Enfermería,Int.,M,ASD,21,México,CHIHUAHUA,HIJO DE OBRERO,8,5,3,0,0,40,18,,medium,high,5.Invalidado,1
+FACSA,Médico Cirujano,Ext.,F,ASD,20,México,NUEVO LEÓN,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,1
+FACSA,Médico Cirujano,Int.,F,Cristiano,21,México,CHIAPAS,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,1
+FACSA,Médico Cirujano,Ext.,M,ASD,21,Estados Unidos,Texas,NORMAL,7,5,2,0,0,40,16,,,low,3.Moderado,1
+ESART,Licenciatura en Comunicación y Medios,Int.,M,ASD,21,México,TABASCO,NORMAL,8,8,0,0,0,40,0,,,,1.Favorable,1
+FACEJ,Licenciatura en Negocios Internacionales,Ext.,M,ASD,21,México,NUEVO LEÓN,NORMAL,8,2,6,0,0,40,30,,,medium,1.Favorable,1
+FACEJ,Licenciatura en Negocios Internacionales,Ext.,M,ASD,23,México,CHIAPAS,NORMAL,8,6,2,0,0,40,8,,,medium,1.Favorable,1
+FACSA,Licenciatura en Químico Clínico Biólogo,Ext.,F,Cristiano,22,México,NUEVO LEÓN,NORMAL,6,5,1,0,0,26,4,,,medium,1.Favorable,1
+FACSA,Médico Cirujano,Ext.,F,ASD,23,Cuba,Guantanamo,NORMAL,4,0,4,0,0,18,18,,low,medium,1.Favorable,1
+ESART,Licenciatura en Comunicación y Medios,Ext.,M,ASD,25,México,CHIAPAS,NORMAL,6,6,0,0,0,28,0,,,high,2.Limitado,1
+FACSA,Licenciatura en Terapia Física y Rehabilitación,Ext.,F,Católico,29,México,NUEVO LEÓN,NORMAL,1,1,0,0,0,4,0,,,,1.Favorable,1
+ESART,Licenciatura en Diseño de Comunicación Visual,Int.,F,ASD,20,México,SONORA,HIJO DE OBRERO,8,0,8,0,0,40,40,,medium,,1.Favorable,1
+FACSA,Licenciatura en Enfermería,Ext.,F,Católico,20,México,NUEVO LEÓN,NORMAL,7,6,1,0,0,36,6,,,medium,1.Favorable,1
+FACSA,Médico Cirujano,Ext.,M,ASD,21,México,TABASCO,NORMAL,7,4,3,0,0,40,22,,,,1.Favorable,1
+FACSA,Médico Cirujano,Int.,M,ASD,20,México,TABASCO,NORMAL,7,4,3,0,0,40,22,,,,5.Invalidado,1
+ESART,Licenciatura en Comunicación y Medios,Int.,M,ASD,20,México,OAXACA,NORMAL,14,1,7,0,6,72,36,,,medium,1.Favorable,1
+ESART,Licenciatura en Arquitectura,Ext.,M,Católico,18,México,NUEVO LEÓN,NORMAL,8,7,1,0,0,40,4,,,,2.Limitado,1
+FACSA,Médico Cirujano,Ext.,F,ASD,19,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,5,2,0,0,40,16,,,,1.Favorable,1
+FACSA,Médico Cirujano,Ext.,F,ASD,30,Jamaica,Kingston,NORMAL,6,6,0,0,0,34,0,,,,2.Limitado,1
+ESART,Licenciatura en Arquitectura,Ext.,M,Católico,19,México,NUEVO LEÓN,NORMAL,8,4,4,0,0,40,20,,,medium,1.Favorable,1
+FACSA,Médico Cirujano,Ext.,M,ASD,21,México,ZACATECAS,NORMAL,7,7,0,0,0,40,0,,low,high,5.Invalidado,1
+FACED,Licenciatura en Enseñanza del Inglés,Ext.,M,ASD,20,México,COAHUILA DE ZARAGOZA,NORMAL,7,7,0,0,0,38,0,,,high,1.Favorable,1
+FAPSI,Licenciatura en Psicología Clínica,Ext.,F,ASD,23,Venezuela,,NORMAL,6,0,6,0,0,34,34,,,,2.Limitado,1
+ESEST,Técnico Superior Universitario en Tecnología Dental,Int.,M,Cristiano,21,México,CHIHUAHUA,NORMAL,5,2,3,0,0,26,16,,,,1.Favorable,1
+FACSA,Médico Cirujano,Int.,M,ASD,19,México,QUINTANA ROO,NORMAL,9,0,9,0,0,40,40,,,high,1.Favorable,1
+FACED,Licenciatura en Educación Primaria,Int.,M,ASD,19,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,11,11,0,0,0,46,0,,,,5.Invalidado,1
+FACED,Licenciatura en Enseñanza del Lenguaje y la Comunicación,Int.,F,ASD,19,México,OAXACA,NORMAL,7,7,0,0,0,38,0,,,high,3.Moderado,1
+FACSA,Licenciatura en Nutrición y Estilo de Vida,Ext.,F,Católico,19,Estados Unidos,Michigan,NORMAL,8,8,0,0,0,40,0,,,,1.Favorable,1
+FACSA,Médico Cirujano,Int.,F,ASD,19,México,CHIAPAS,NORMAL,9,4,5,0,0,40,22,,medium,,2.Limitado,1
+FACEJ,Licenciatura en Contaduría Pública,Ext.,F,ASD,22,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,4,3,0,0,42,18,,,,3.Moderado,1
+FITEC,Ingeniería en Electrónica y Telecomunicaciones,Int.,M,ASD,20,Honduras,,NORMAL,7,6,1,0,0,36,6,,,medium,3.Moderado,1
+FACEJ,Licenciatura en Negocios Internacionales,Ext.,M,ASD,20,México,TAMAULIPAS,NORMAL,8,6,2,0,0,40,12,,,,3.Moderado,1
+ESEST,Técnico Superior Universitario en Tecnología Dental,Ext.,F,ASD,20,México,NUEVO LEÓN,NORMAL,7,7,0,0,0,36,0,,,low,2.Limitado,1
+ESART,Licenciatura en Arquitectura,Int.,M,Católico,19,México,TABASCO,NORMAL,8,0,8,0,0,40,40,,,medium,3.Moderado,1
+FACSA,Médico Cirujano,Int.,F,ASD,18,México,CHIAPAS,HIJO DE OBRERO,9,5,4,0,0,40,22,,high,,1.Favorable,1
+FACSA,Médico Cirujano,Ext.,M,ASD,21,México,SAN LUIS POTOSÍ,NORMAL,3,0,3,0,0,14,14,,,medium,2.Limitado,1
+FACED,Licenciatura en Enseñanza del Inglés,Int.,F,ASD,20,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,3,4,0,0,38,22,,,high,1.Favorable,1
+FACED,Licenciatura en Enseñanza de las Matemáticas,Int.,F,ASD,19,México,TABASCO,NORMAL,7,5,2,0,0,38,12,,,high,4.Riesgo,1
+FITEC,Ingeniería en Sistemas Computacionales,Int.,M,ASD,19,Nicaragua,Chinandega,HIJO DE OBRERO,7,7,0,0,0,36,0,,,medium,2.Limitado,1
+FACED,Licenciatura en Educación Primaria,Ext.,M,ASD,22,México,NUEVO LEÓN,NORMAL,11,10,1,0,0,46,4,,,high,5.Invalidado,1
+FACEJ,Licenciatura en Contaduría Pública,Ext.,M,ASD,38,México,NUEVO LEÓN,NORMAL,7,2,5,0,0,42,30,,,medium,1.Favorable,1
+FACSA,Médico Cirujano,Int.,F,ASD,21,Perú,Puno,NORMAL,7,6,1,0,0,40,6,,,low,5.Invalidado,0
+FITEC,Ingeniería en Sistemas Computacionales,Ext.,F,ASD,22,Guatemala,Quiche,NORMAL,7,7,0,0,0,36,0,,,medium,2.Limitado,0
+ESART,Licenciatura en Diseño de Comunicación Visual,Int.,F,ASD,19,México,TAMAULIPAS,HIJO DE OBRERO,8,8,0,0,0,40,0,,medium,medium,1.Favorable,0
+ESART,Licenciatura en Arquitectura,Int.,F,ASD,21,México,QUINTANA ROO,NORMAL,8,8,0,0,0,40,0,,,,2.Limitado,0
+FACSA,Médico Cirujano,Int.,M,ASD,20,Honduras,,NORMAL,7,7,0,0,0,40,0,,,medium,2.Limitado,0
+ESART,Licenciatura en Diseño de Comunicación Visual,Int.,F,ASD,20,México,CHIAPAS,NORMAL,8,8,0,0,0,40,0,,,medium,1.Favorable,0
+FACEJ,Licenciatura en Negocios Internacionales,Ext.,F,ASD,18,México,NUEVO LEÓN,NORMAL,8,8,0,0,0,40,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,20,México,OAXACA,HIJO DE OBRERO,7,7,0,0,0,40,0,,high,,1.Favorable,0
+FACEJ,Licenciatura en Negocios Internacionales,Ext.,M,ASD,20,México,TABASCO,NORMAL,8,8,0,0,0,40,0,,,medium,1.Favorable,0
+FATEO,Licenciatura en Teología,Ext.,M,ASD,20,México,YUCATÁN,NORMAL,8,8,0,0,0,38,0,,,medium,1.Favorable,0
+ESART,Licenciatura en Arquitectura,Int.,F,ASD,20,México,VERACRUZ DE IGNACIO DE LA LLAVE,HIJO DE OBRERO,8,8,0,0,0,40,0,,high,low,3.Moderado,0
+ESART,Licenciatura en Comunicación y Medios,Ext.,M,ASD,21,México,NUEVO LEÓN,NORMAL,8,8,0,0,0,40,0,,,,1.Favorable,0
+FACED,Licenciatura en Enseñanza de las Matemáticas,Int.,F,ASD,20,México,TABASCO,NORMAL,7,7,0,0,0,38,0,,,high,1.Favorable,0
+FACEJ,Licenciatura en Contaduría Pública,Ext.,F,ASD,38,México,CIUDAD DE MÉXICO,NORMAL,7,7,0,0,0,42,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,19,México,CHIAPAS,NORMAL,7,4,3,0,0,40,22,,,medium,2.Limitado,0
+FACSA,Licenciatura en Terapia Física y Rehabilitación,Int.,F,ASD,20,El Salvador,San Salvador,NORMAL,10,8,0,0,2,44,0,,,,2.Limitado,0
+FACEJ,Licenciatura en Contaduría Pública,Ext.,F,ASD,20,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,8,8,0,0,0,40,0,,medium,low,2.Limitado,0
+FACEJ,Licenciatura en Derecho,Ext.,F,ASD,20,México,TABASCO,NORMAL,7,7,0,0,0,32,0,,,low,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,Cristiano,21,México,CHIAPAS,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,20,México,SONORA,NORMAL,7,7,0,0,0,40,0,,,high,5.Invalidado,0
+ESART,Licenciatura en Diseño de Comunicación Visual,Int.,M,ASD,19,México,MÉXICO,NORMAL,8,8,0,0,0,40,0,,,,1.Favorable,0
+FATEO,Licenciatura en Teología,Int.,M,ASD,20,México,VERACRUZ DE IGNACIO DE LA LLAVE,HIJO DE OBRERO,8,8,0,0,0,38,0,,high,low,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,M,ASD,20,México,NUEVO LEÓN,NORMAL,7,7,0,0,0,40,0,,,,2.Limitado,0
+FACEJ,Licenciatura en Negocios Internacionales,Ext.,F,ASD,20,México,NUEVO LEÓN,HIJO DE OBRERO,8,8,0,0,0,40,0,,medium,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,20,México,TABASCO,HIJO DE OBRERO,7,6,1,0,0,40,8,,medium,,1.Favorable,0
+FATEO,Licenciatura en Teología,Int.,M,ASD,39,México,TABASCO,NORMAL,8,8,0,0,0,38,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,M,ASD,20,México,MORELOS,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+ESEST,Cirujano Dentista,Int.,M,ASD,22,Estados Unidos,California,NORMAL,8,8,0,0,0,40,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,M,ASD,20,México,YUCATÁN,HIJO DE OBRERO,7,7,0,0,0,40,0,,high,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,20,México,TABASCO,NORMAL,7,7,0,0,0,40,0,,,low,1.Favorable,0
+FACSA,Médico Cirujano,Int.,M,ASD,23,Colombia,Cordoba,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+ESEST,Cirujano Dentista,Int.,F,ASD,20,México,TABASCO,HIJO DE OBRERO,9,8,0,0,1,44,0,,high,medium,3.Moderado,0
+ESART,Licenciatura en Arquitectura,Int.,F,ASD,20,México,CHIAPAS,NORMAL,8,8,0,0,0,40,0,,,,3.Moderado,0
+FACEJ,Licenciatura en Contaduría Pública,Ext.,F,ASD,27,México,OAXACA,NORMAL,7,6,1,0,0,42,6,,,medium,5.Invalidado,0
+ESART,Licenciatura en Arquitectura,Int.,F,ASD,20,México,CIUDAD DE MÉXICO,HIJO DE OBRERO,8,8,0,0,0,40,0,,high,,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,F,ASD,20,Estados Unidos,Alabama,NORMAL,7,7,0,0,0,40,0,,,,2.Limitado,0
+FACSA,Médico Cirujano,Ext.,M,ASD,18,México,NUEVO LEÓN,NORMAL,7,6,1,0,0,40,8,,,,1.Favorable,0
+ESEST,Cirujano Dentista,Int.,F,ASD,20,México,SINALOA,HIJO DE OBRERO,9,8,0,0,1,44,0,,high,medium,3.Moderado,0
+ESEST,Técnico Superior Universitario en Tecnología Dental,Int.,M,Presbiteriano,22,México,NUEVO LEÓN,NORMAL,7,7,0,0,0,36,0,,,low,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,M,ASD,23,Guatemala,Petén,NORMAL,5,5,0,0,0,26,0,,,,3.Moderado,0
+FACSA,Médico Cirujano,Int.,M,ASD,20,Costa Rica,Limon,NORMAL,7,7,0,0,0,40,0,,,high,1.Favorable,0
+ESART,Licenciatura en Comunicación y Medios,Ext.,M,ASD,20,México,QUINTANA ROO,HIJO DE OBRERO,8,8,0,0,0,40,0,,medium,medium,1.Favorable,0
+FAPSI,Licenciatura en Psicología Clínica,Int.,F,ASD,20,Curazao,,NORMAL,7,7,0,0,0,38,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,F,ASD,26,Colombia,Quindio,NORMAL,7,6,1,0,0,40,4,,,high,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,M,ASD,20,México,GUERRERO,HIJO DE OBRERO,7,7,0,0,0,40,0,,medium,,1.Favorable,0
+FAPSI,Licenciatura en Psicología Clínica,Int.,F,ASD,20,México,TAMAULIPAS,NORMAL,7,7,0,0,0,38,0,,,,2.Limitado,0
+ESART,Licenciatura en Diseño de Comunicación Visual,Int.,F,ASD,20,México,CHIAPAS,NORMAL,8,8,0,0,0,40,0,,,,3.Moderado,0
+FACSA,Licenciatura en Químico Clínico Biólogo,Int.,M,ASD,23,Antillas Holandesas,Curacao,NORMAL,8,6,2,0,0,40,10,,,,2.Limitado,0
+FATEO,Licenciatura en Teología,Ext.,M,ASD,23,Estados Unidos,Texas,NORMAL,8,8,0,0,0,38,0,,,,1.Favorable,0
+FACEJ,Licenciatura en Contaduría Pública,Ext.,M,ASD,30,México,BAJA CALIFORNIA,NORMAL,7,7,0,0,0,42,0,,,low,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,F,ASD,20,España,,NORMAL,7,7,0,0,0,40,0,,,low,1.Favorable,0
+FACEJ,Licenciatura en Negocios Internacionales,Int.,F,ASD,22,México,TABASCO,HIJO DE OBRERO,8,8,0,0,0,40,0,,medium,medium,2.Limitado,0
+FACEJ,Licenciatura en Contaduría Pública,Ext.,F,ASD,29,México,NUEVO LEÓN,HIJO DE EMPLEADO UM,15,7,2,0,6,82,12,low,,low,1.Favorable,0
+FAPSI,Licenciatura en Psicología Clínica,Int.,F,ASD,20,Estados Unidos,Alabama,NORMAL,7,7,0,0,0,38,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,M,ASD,20,México,CHIAPAS,HIJO DE OBRERO,7,7,0,0,0,40,0,,high,,1.Favorable,0
+FACSA,Licenciatura en Enfermería,Int.,F,ASD,20,Estados Unidos,California,NORMAL,8,8,0,0,0,40,0,,,,1.Favorable,0
+ESEST,Cirujano Dentista,Ext.,F,ASD,20,México,TABASCO,NORMAL,9,8,0,0,1,44,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,F,Evangélico,19,México,NUEVO LEÓN,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,F,ASD,19,Estados Unidos,Colorado,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+ESEST,Cirujano Dentista,Int.,F,ASD,20,México,MORELOS,HIJO DE OBRERO,9,8,0,0,1,44,0,,medium,medium,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,20,México,CHIAPAS,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+FAPSI,Licenciatura en Psicología Clínica,Int.,F,ASD,18,México,JALISCO,HIJO DE OBRERO,7,7,0,0,0,38,0,,medium,medium,1.Favorable,0
+FITEC,Ingeniería en Sistemas Computacionales,Ext.,M,ASD,20,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,7,0,0,0,36,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,M,ASD,36,Estados Unidos,Alabama,NORMAL,7,7,0,0,0,40,0,,,,5.Invalidado,0
+FITEC,Ingeniería en Sistemas Computacionales,Int.,M,ASD,20,México,CAMPECHE,NORMAL,7,7,0,0,0,36,0,,,low,1.Favorable,0
+FACEJ,Licenciatura en Contaduría Pública,Int.,F,ASD,20,México,SINALOA,HIJO DE OBRERO,8,8,0,0,0,40,0,,medium,high,2.Limitado,0
+FACSA,Médico Cirujano,Ext.,F,ASD,20,Bolivia,La Paz,NORMAL,7,7,0,0,0,40,0,,,,4.Riesgo,0
+FACSA,Médico Cirujano,Ext.,F,ASD,21,México,CHIAPAS,NORMAL,7,7,0,0,0,40,0,,medium,,1.Favorable,0
+FITEC,Ingeniería en Gestión de Tecnologías de la Información,Ext.,M,Cristiano,19,México,NUEVO LEÓN,NORMAL,7,7,0,0,0,36,0,,,low,1.Favorable,0
+FACSA,Licenciatura en Terapia Física y Rehabilitación,Ext.,F,ASD,25,México,GUERRERO,NORMAL,8,8,0,0,0,36,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,22,México,SAN LUIS POTOSÍ,HIJO DE OBRERO,7,6,1,0,0,40,8,,low,,5.Invalidado,0
+FACSA,Licenciatura en Terapia Física y Rehabilitación,Ext.,F,ASD,19,México,NUEVO LEÓN,HIJO DE EMPLEADO UM,10,8,0,0,2,44,0,medium,,,1.Favorable,0
+FAPSI,Licenciatura en Psicología Clínica,Int.,F,ASD,21,México,YUCATÁN,NORMAL,5,5,0,0,0,24,0,,,low,1.Favorable,0
+FACEJ,Licenciatura en Negocios Internacionales,Ext.,F,ASD,20,México,NUEVO LEÓN,NORMAL,8,8,0,0,0,40,0,,,medium,1.Favorable,0
+ESEST,Cirujano Dentista,Int.,M,ASD,20,Estados Unidos,Michigan,NORMAL,8,8,0,0,0,40,0,,,,2.Limitado,0
+FITEC,Ingeniería en Sistemas Computacionales,Int.,M,ASD,19,México,VERACRUZ DE IGNACIO DE LA LLAVE,HIJO DE OBRERO,7,7,0,0,0,36,0,,medium,,1.Favorable,0
+FACEJ,Licenciatura en Negocios Internacionales,Ext.,F,ASD,19,México,SINALOA,NORMAL,8,7,1,0,0,40,6,,,,1.Favorable,0
+FACEJ,Licenciatura en Contaduría Pública,Int.,M,ASD,19,México,PUEBLA,HIJO DE OBRERO,8,8,0,0,0,40,0,,medium,medium,2.Limitado,0
+FACSA,Médico Cirujano,Int.,M,ASD,20,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,M,ASD,20,México,CHIAPAS,HIJO DE OBRERO,7,5,2,0,0,40,14,,high,low,5.Invalidado,0
+FACSA,Médico Cirujano,Int.,F,ASD,21,Argentina,Entre Rios,HIJO DE OBRERO,7,7,0,0,0,40,0,,,medium,1.Favorable,0
+ESEST,Cirujano Dentista,Ext.,M,ASD,20,México,MORELOS,NORMAL,9,8,0,0,1,44,0,,,,1.Favorable,0
+FITEC,Ingeniería en Gestión de Tecnologías de la Información,Int.,M,ASD,19,México,COAHUILA DE ZARAGOZA,HIJO DE OBRERO,7,7,0,0,0,36,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,19,México,MÉXICO,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,F,ASD,20,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,20,Estados Unidos,Colorado,NORMAL,7,4,3,0,0,40,22,,,,1.Favorable,0
+ESEST,Técnico Superior Universitario en Tecnología Dental,Int.,F,ASD,20,México,TLAXCALA,NORMAL,15,8,2,0,5,76,12,,,,4.Riesgo,0
+FACEJ,Licenciatura en Contaduría Pública,Ext.,F,ASD,53,México,CAMPECHE,NORMAL,7,7,0,0,0,42,0,,,,4.Riesgo,0
+FACSA,Licenciatura en Químico Clínico Biólogo,Int.,M,ASD,20,México,TABASCO,NORMAL,8,8,0,0,0,40,0,,,medium,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,19,México,OAXACA,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,F,ASD,20,México,CHIAPAS,HIJO DE OBRERO,7,5,2,0,0,40,14,,high,,5.Invalidado,0
+FACSA,Médico Cirujano,Int.,F,ASD,20,México,MÉXICO,HIJO DE OBRERO,7,7,0,0,0,40,0,,high,medium,2.Limitado,0
+FACSA,Licenciatura en Terapia Física y Rehabilitación,Int.,F,ASD,20,México,NUEVO LEÓN,HIJO DE OBRERO,10,8,0,0,2,44,0,,medium,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,M,ASD,20,México,OAXACA,NORMAL,7,7,0,0,0,40,0,,high,,5.Invalidado,0
+FACSA,Médico Cirujano,Ext.,M,ASD,20,México,NUEVO LEÓN,HIJO DE OBRERO,7,7,0,0,0,40,0,,medium,medium,1.Favorable,0
+FACSA,Médico Cirujano,Ext.,M,ASD,20,Belice,Belice,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+FACED,Licenciatura en Enseñanza de las Ciencias Sociales,Int.,F,ASD,20,México,CHIAPAS,NORMAL,7,7,0,0,0,38,0,,low,high,1.Favorable,0
+FACEJ,Licenciatura en Contaduría Pública,Ext.,M,ASD,23,México,VERACRUZ DE IGNACIO DE LA LLAVE,NORMAL,7,6,1,0,0,42,6,,,,1.Favorable,0
+FACEJ,Licenciatura en Contaduría Pública,Ext.,M,ASD,20,México,SINALOA,NORMAL,8,8,0,0,0,40,0,,low,medium,1.Favorable,0
+FAPSI,Licenciatura en Psicología Clínica,Int.,M,ASD,20,México,NUEVO LEÓN,HIJO DE OBRERO,7,7,0,0,0,38,0,,medium,medium,2.Limitado,0
+FACSA,Médico Cirujano,Int.,F,Bautista,20,México,TABASCO,NORMAL,7,7,0,0,0,40,0,,,,1.Favorable,0
+FACSA,Médico Cirujano,Int.,M,ASD,20,Estados Unidos,Alabama,NORMAL,7,7,0,0,0,40,0,,high,,3.Moderado,0
+FACED,Licenciatura en Enseñanza del Inglés,Int.,F,ASD,21,México,ZACATECAS,NORMAL,7,7,0,0,0,38,0,,,,1.Favorable,0
+ESART,Licenciatura en Arquitectura,Int.,F,ASD,20,Honduras,Cortes,NORMAL,8,8,0,0,0,40,0,,,high,2.Limitado,0
+FACSA,Médico Cirujano,Int.,M,ASD,20,México,TABASCO,HIJO DE OBRERO,7,7,0,0,0,40,0,,high,medium,3.Moderado,0
+FACSA,Médico Cirujano,Int.,F,ASD,20,México,CHIAPAS,HIJO DE OBRERO,7,6,1,0,0,40,6,,medium,,1.Favorable,0
