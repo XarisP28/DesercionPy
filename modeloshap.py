@@ -116,7 +116,6 @@ print(f'Precisión del modelo: {precision:.2f}')
 
 print(classification_report(y_test, y_pred))
 
-!pip install shap==0.41.0 numpy==1.23.5 matplotlib==3.5.1
 
 import shap
 import numpy as np
