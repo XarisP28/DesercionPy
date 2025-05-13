@@ -7,14 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/19bZMqhzNBSrMOSBqeZvq64X_OTWnLqF6
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('/content/drive/MyDrive/06_Salud/Xaris_Perez/datos/data.csv')
+df = pd.read_csv('data.csv')
 df.head()
 
 columnas_a_revisar = ["Facultad","Carrera","Res","Sexo", "Rel", "F.Nac.","Pais","Estado","Tipo","N° Mat","N° AC","N° CP", "N° Cr","N° Cr.NA","Desc. Becas", "Donativos", "Deuda Actual","TPT", "target"]
