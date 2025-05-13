@@ -39,11 +39,9 @@ if modelo:
         st.write("Columnas disponibles en el dataset:", df.columns.tolist())
 
         # Aquí selecciona las features que existan en tu CSV
-       features_a_usar = [
-    'Facultad', 'Carrera', 'Sexo', 'Pais', 'Estado', 'Tipo',
+       features_a_usar = ['Facultad', 'Carrera', 'Sexo', 'Pais', 'Estado', 'Tipo',
     'Desc. Becas', 'Donativos', 'Deuda Actual', 'TPT',
-    'N° CP', 'N° BA'
-]
+    'N° CP', 'N° BA']
 
         # Validar qué columnas faltan para evitar el KeyError
         columnas_faltantes = [col for col in features_a_usar if col not in df.columns]
