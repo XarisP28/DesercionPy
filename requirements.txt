@@ -1,6 +1,7 @@
 numpy==1.23.5
 pandas
 matplotlib==3.5.1
+seaborn
 scikit-learn
 shap==0.41.0
 streamlit
