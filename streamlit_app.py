@@ -5,6 +5,11 @@ from modeloshap import cargar_modelo, cargar_datos
 
 modelo = cargar_modelo()
 
+def explicar_prediccion(modelo, X):
+    explainer = shap.Explainer(modelo, X)
+    shap_values = explainer(X)
+    return explainer, shap_values
+    
 if modelo is not None:
     X, y = cargar_datos()
     explainer, shap_values = explicar_prediccion(modelo, X)
