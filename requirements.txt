@@ -1,8 +1,7 @@
-numpy==1.23.5
+numpy
 pandas
-matplotlib==3.5.1
+matplotlib
 seaborn
 scikit-learn
-shap==0.41.0
+shap
 streamlit
-ipywidgets
